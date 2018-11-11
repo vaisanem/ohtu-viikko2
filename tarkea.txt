@@ -3,6 +3,7 @@ painottaa,
 että
 tämä
 on
-todella
+todella,
+todella,
 todella
 tärkeää
